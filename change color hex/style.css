@@ -1,10 +1,12 @@
 button {
   background-color: aliceblue;
   color: #333;
-  margin: 50vh;
 }
 
+.container{
+  margin-top: 50vh;
+ margin-left: 50%;
+}
 div {
   font-size: 20px;
-  color: white;
 }

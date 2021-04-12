@@ -1,6 +1,6 @@
 const body = document.querySelector('body');
 const button = document.querySelector('button')
-const div = document.querySelector('div')
+const div = document.querySelector('#hex')
 
 
 button.addEventListener('click', changeBackground)
